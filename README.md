@@ -1,4 +1,4 @@
-# 🧠 Memory Game
+# Memory Game
 
 Um jogo da memória simples desenvolvido com **HTML**, **CSS** e **JavaScript puro**, com temática visual personalizada e responsividade para diferentes dispositivos.
 
